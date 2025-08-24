@@ -1,0 +1,14 @@
+{
+  "name": "typescriptplaywrightsampleproject",
+  "version": "1.0.0",
+  "description": "This repository demonstrates how to use [Playwright](https://playwright.dev/) with [TypeScript](https://www.typescriptlang.org/) for end-to-end testing.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
